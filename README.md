@@ -5,7 +5,7 @@
 
   <!-- Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Jatin-Iyer_Mettler1&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Jatin-Iyer_Mettler1" />
+    <img src="https://github-profile-trophy.vercel.app/?username=aceandro2812&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" alt="aceandro2812" />
   </a>
 
   <!-- Profile Views & Social Follow -->
@@ -81,16 +81,16 @@ def fun_fact(self):
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jatin-Iyer_Mettler1&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jatin-Iyer_Mettler1&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aceandro2812&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aceandro2812&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jatin-Iyer_Mettler1&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aceandro2812&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jatin-Iyer_Mettler1&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aceandro2812&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="activity graph" />
 </div>
 
 ---
